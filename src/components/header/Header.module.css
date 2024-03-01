@@ -1,0 +1,14 @@
+.headerLeft{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.headerLeft span{
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    background: linear-gradient(to right, rgb(147, 244, 147), rgb(91, 253, 91), rgb(0, 255, 0));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
